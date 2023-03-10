@@ -92,3 +92,5 @@ L0T1Z
 cereal15
 yuukio_
 TopHatGuardian_
+floatingfish
+geoid ジオイドVRC
