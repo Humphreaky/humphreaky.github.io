@@ -83,7 +83,7 @@ mahne
 _10Soap10_
 Zoommair
 L0T1Z
-[MOOT]
+［MOOT］
 cereal15
 yuukio_
 TopHatGuardian_
@@ -91,3 +91,4 @@ floatingfish
 geoid ジオイドVRC
 Feathermo0n
 ballerbob_
+Zoommair
