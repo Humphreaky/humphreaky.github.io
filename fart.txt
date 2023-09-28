@@ -101,3 +101,4 @@ Ahzu
 Asovrix
 JCK_Official
 FoxyFoo
+Sir Rose
