@@ -20,6 +20,8 @@ ritual
 FloydianSound
 mira ඞ
 kualu
+	
+FloydianVisual
 
 Staff:
 Figolo
