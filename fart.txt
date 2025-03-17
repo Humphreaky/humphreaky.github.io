@@ -23,7 +23,7 @@ kualu
 -Queso-
 Cri̽t
 Yulie
-FlakedLotus
+Flakedlotus
 	
 FloydianVisual
 
