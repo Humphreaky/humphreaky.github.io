@@ -31,6 +31,7 @@ Vanity™
 plushmilk
 	
 FloydianVisual
+Cansur
 
 Staff:
 Figolo
@@ -59,7 +60,7 @@ Flakedlotus
 Tacical
 
 Homies:
-Nephtanica
+
 Sepsy
 vroku
 Devixel
