@@ -1,6 +1,4 @@
 Staff:
-FloydianSound
-FloydianVisual
 Tomat0
 plushmilk
 Figolo
@@ -16,7 +14,6 @@ Gooven
 Juoto
 RefugeVR
 Cheebzy
-Humphreaky
 Speculations
 ·Clara·
 lLavy
