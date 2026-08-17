@@ -31,7 +31,6 @@ Dazer0
 mojopeg
 epinel ~
 john techno
-ЈОНN
 WYLDA
 Melti_
 Frostyx
